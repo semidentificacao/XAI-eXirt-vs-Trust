@@ -1,0 +1,7 @@
+#only in python 3.10.14
+py-ciu == 0.5.0.1
+ipython
+eli5
+lxml
+bs4
+scikit_posthocs
